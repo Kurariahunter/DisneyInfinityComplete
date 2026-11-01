@@ -1,0 +1,9 @@
+{
+  "manifestVersion": 1,
+  "id": "disparks.pickups",
+  "name": "DI Spark Spawner",
+  "version": "0.1.0",
+  "description": "Manually spawn blue sparks, XP, health and super-meter pickups near the active player.",
+  "minLoaderVersion": "1.1.0",
+  "entry": "main.lua"
+}
